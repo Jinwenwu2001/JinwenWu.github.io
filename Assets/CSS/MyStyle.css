@@ -1,0 +1,31 @@
+h1{ text-align: center;}
+
+#Heading-section-top{
+    color: rgb(37, 165, 37);
+}
+
+.font-color-pink{
+    color: pink;
+}
+
+.font-Flux{
+    font-family: "Cedarville Cursive", cursive;
+    font-weight: 1000;
+    font-style: normal;
+    text-indent: 5%;
+    letter-spacing: 0.5cm;
+    line-height: 5%;
+    word-spacing: 2%;
+}
+
+
+a:link, a:visited{
+    background-color: #f44336;
+    color: white;
+    padding: 14px 25px;
+    text-align: center;
+    display: inline-block;
+}
+a:hover{
+    color:beige;
+}
